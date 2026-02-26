@@ -2,3 +2,6 @@
 
 video l![mqdefault](https://github.com/user-attachments/assets/221263b7-dca4-4e8e-b5bf-944d31b346fd)
 
+
+https://github.com/satishspatil-01/Temperature-and-Humidity-Detection-Embedded-/blob/main/Screenshot%202026-01-20%20224039.png?raw=true
+
